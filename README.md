@@ -2,6 +2,7 @@
 
 
 <a href="https://www.facebook.com/profile.php?id=100011324822270" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/si0_0_n/ target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white%22/%3E</a>
 
 
 
