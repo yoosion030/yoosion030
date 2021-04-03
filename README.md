@@ -6,7 +6,7 @@
 
 
 <!--
-**chanwoo00106/chanwoo00106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yoosion030/yoosion030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
