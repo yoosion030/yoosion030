@@ -1,7 +1,6 @@
 # Hi There! 👋
 
 
-<a href="https://www.facebook.com/profile.php?id=100011324822270" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 
 
 
