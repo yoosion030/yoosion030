@@ -1,5 +1,4 @@
 # Hi ! 👋
-![snake?](https://raw.githubusercontent.com/yoosion030/yoosion030/blob/output/github-contribution-grid-snake.svg)
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoosion030)](https://github.com/yoosion030)
