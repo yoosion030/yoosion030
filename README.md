@@ -1,9 +1,11 @@
 ## Front-end Learner  
 
-📌 [MY portfolio](https://yoosion030.github.io/Portfolio/)  
+📌 [Web Portfolio](https://yoosion030.github.io/Portfolio/)  
 
-📌 [velog](https://velog.io/@yoosion030)
+📌 [Notion Portfolio](https://www.notion.so/YooSion-062f201335c5446790623848ffa989e8)
 
-📌 [Rocketpunch](https://www.rocketpunch.com/@s21066?action=info_edit#infos)
+📌 [Velog](https://velog.io/@yoosion030)
+
+📌 [RocketPunch](https://www.rocketpunch.com/@s21066?action=info_edit#infos)
 
 
