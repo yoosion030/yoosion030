@@ -2,7 +2,7 @@
 
 📌 [Web Portfolio](https://yoosion030.github.io/Portfolio/)  
 
-📌 [Notion Portfolio](https://www.notion.so/YooSion-062f201335c5446790623848ffa989e8)
+📌 [Notion Portfolio](https://thankful-weight-eea.notion.site/YooSion-062f201335c5446790623848ffa989e8)
 
 📌 [Velog](https://velog.io/@yoosion030)
 
