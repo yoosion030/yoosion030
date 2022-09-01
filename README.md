@@ -5,7 +5,7 @@
 ## About 
 - Languages: HTML, CSS, JavaScript, TypeScript;
 - Frameworks: NextJS, ReactJS;
-- Email: rsy5487@naver.com
+- Email: yoosioff@gmail.com
 - [Velog](https://velog.io/@yoosion030)
 - [Portfolio](https://yoosion030.github.io/Portfolio/)
 
