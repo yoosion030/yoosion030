@@ -4,7 +4,7 @@
 그만큼 성장하는 것에 희열을 느낍니다.🤩
 
 
-- [Mail](yoosioff@gmail.com) 📧 
+- [Mail](mailto:yoosioff@gmail.com) 📧 
 - [Blog](https://sion-log.vercel.app/) ✍️ 
 - [Linkedin](https://www.linkedin.com/in/%EC%8B%9C%EC%98%A8-%EC%9C%A0-021b02236/) 🔗
 - [Velog](https://velog.io/@yoosion030) 🧩
