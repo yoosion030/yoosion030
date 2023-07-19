@@ -8,5 +8,5 @@
 - [Blog](https://sion-log.vercel.app/) ✍️ 
 - [Linkedin](https://www.linkedin.com/in/%EC%8B%9C%EC%98%A8-%EC%9C%A0-021b02236/) 🔗
 - [Velog](https://velog.io/@yoosion030) 🧩
-- [Notion Portfolio](https://yoosion030.notion.site/73289634aa9c489fb55377d81a34fc2a?pvs=4) ✈️
+- [Notion Portfolio](https://yoosioff.oopy.io/) ✈️
 - [Web Portfolio](https://yoosion030.github.io/Portfolio/) 📕
