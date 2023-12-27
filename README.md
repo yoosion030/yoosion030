@@ -1,4 +1,13 @@
 ### Hello, I am Yusion, a front-end developer.
 
 I enjoy learning fast-changing front-end technologies. 🤩  
-If you would like to know more about me, refer to my [portfolio](https://yoosioff.oopy.io/), [Linkedin](https://www.linkedin.com/in/%EC%8B%9C%EC%98%A8-%EC%9C%A0-021b02236/) or [email](mailto:yoosioff@gmail.com).
+For Coffee Chat, please contact [email](mailto:yoosioff@gmail.com) or [Linkedin](https://www.linkedin.com/in/yusion/).  
+If you would like to know more about me, refer to my [portfolio](https://yoosioff.oopy.io/).
+
+### Career
+
+- [Gwangju Software Meister High School](https://official.hellogsm.kr/) `2021. 03 ~ 2024. 01`
+- [Classting](https://www.classting.com/ko)https://www.classting.com/ko `2024. 02 ~ ing`
+
+Thank you for visiting my github profile. Have a nice day :)
+
