@@ -7,7 +7,7 @@ If you would like to know more about me, refer to my [portfolio](https://yoosiof
 ### Career
 
 - [Gwangju Software Meister High School](https://official.hellogsm.kr/) `2021. 03 ~ 2024. 01`
-- [Classting](https://www.classting.com/ko)https://www.classting.com/ko `2024. 02 ~ ing`
+- [Classting](https://www.classting.com/ko) `2024. 02 ~ ing`
 
 Thank you for visiting my github profile. Have a nice day :)
 
