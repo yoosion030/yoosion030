@@ -2,7 +2,7 @@
 
 I enjoy learning fast-changing front-end technologies. 🤩  
 For Coffee Chat, please contact [email](mailto:yoosioff@gmail.com) or [Linkedin](https://www.linkedin.com/in/yusion/).  
-If you would like to know more about me, refer to my [portfolio](https://yoosioff.oopy.io/).
+If you would like to know more about me, refer to my [portfolio](https://yoosion030.notion.site/495a089f40454e10a0117bea330e90fa?pvs=4).
 
 ### Career
 
