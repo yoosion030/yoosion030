@@ -12,6 +12,3 @@ If you would like to know more about me, refer to my [portfolio](https://yoosion
 Thank you for visiting my github profile. Have a nice day :)
 
 
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
-</a>
